@@ -1,0 +1,33 @@
+.control-label col-sm-2 {
+  color: rgb(238, 132, 12);
+  background-color: rgb(30, 128, 240);
+  }
+
+body {
+    background-color: rgb(30, 128, 240);
+  }
+
+.btn{
+    padding: 10px 35px;
+    background-color: transparent;
+    border: 1px solid white;
+    color: rgb(252, 248, 248);
+    outline: none;
+    transition: .6s ease;
+	font-weight: bold;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 5px white, 0 0 10px white, 0 0 15px white;
+    font-weight: bold;
+}
+
+h2{
+  color: rgb(238, 132, 12);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
